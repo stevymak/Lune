@@ -1,7 +1,7 @@
 # Lune
 Feuilles de décisions | Décision individuelle | Décision collective | NASA
 --- | --- | --- 
-A  | | | |        
+A | 15 | 0 | 0
 B
 C
 D
