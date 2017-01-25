@@ -1,5 +1,6 @@
 # Lune
-            Décision individuelle       Décision collective       NASA
+Décision individuelle | Décision collective | NASA
+--- | --- | --- 
 A          
 B
 C
